@@ -1,5 +1,5 @@
 opam-version: "1.2"
-name: "aws_ec2"
+name: "aws-ec2"
 version: "0.1.0"
 maintainer: "Spiros Eliopoulos <spiros@inhabitedtype.com>"
 authors: [ "Spiros Eliopoulos <spiros@inhabitedtype.com>"
